@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Icons" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+  <path class="st0" d="M3,11v1c0,7.2,5.8,13,13,13s13-5.8,13-13v-1" style="stroke: rgb(51, 136, 40); fill: rgb(134, 185, 113);"/>
+  <path class="st0" d="M16,21c5,0,9-4,9-9H7C7,17,11,21,16,21z" style="fill: rgb(244, 59, 59); stroke: rgb(185, 12, 12);"/>
+  <g>
+    <line class="st0" x1="16" y1="16" x2="16" y2="18" style="stroke: rgb(50, 4, 4);"/>
+    <line class="st0" x1="20" y1="15" x2="20" y2="17" style="stroke: rgb(50, 4, 4);"/>
+    <line class="st0" x1="12" y1="15" x2="12" y2="17" style="stroke: rgb(50, 4, 4);"/>
+  </g>
+</svg>
